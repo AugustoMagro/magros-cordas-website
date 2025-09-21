@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+    --color-gray-magros-700: #242424;
+    --color-gray-magros-600: #434343;
+    --color-gray-magros-500: #656565;
+    --color-gray-magros-400: #898989;
+    --color-gray-magros-300: #AFAFAF;
+    --color-gray-magros-200: #D6D6D6;
+    --color-gray-magros-100: #F1F1F1;
+    --color-green-magros: #0D3300;
+    --color-blue-magros: #111C27;
+    --color-light-magros: #DBDEEB;
+    --color-red-magros: #CA2B40;
+}
