@@ -1,16 +1,18 @@
 
 import ToggleTheme from "./ToggleTheme"
 import BotaoContato from "./BotaoContato"
+import Navegacao from "./Navegacao"
 
-const Navbar = () => {
+interface PageProps {
+    tab: string
+}
+
+const Navbar = (props: PageProps) => {
 
     return (
-        <nav className="p-2 flex justify-between bg-white dark:bg-gray-magros-700 dark:text-white">
+        <nav className="p-2 fixed w-full flex justify-between bg-white dark:bg-gray-magros-700 dark:text-white">
             <h2>Magros Cordas</h2>
-            <li className="flex align-middle">
-                <ul>Home</ul>
-                <ul className="ms-5">Produtos</ul>
-            </li>
+            <Navegacao tab={props.tab}/>
             <BotaoContato />
             <ToggleTheme />
         </nav>

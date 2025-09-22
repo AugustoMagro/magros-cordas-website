@@ -1,15 +1,13 @@
-import Banner from "../../components/Banner"
 import Navbar from "../../components/Navbar"
 import ProdutosSector from "../../components/ProdutosSector"
 
-function Home() {
+function Produtos() {
   return (
     <>
-      <Navbar tab="Home"/>
-      <Banner />
+      <Navbar tab="Produtos"/>
       <ProdutosSector />
     </>
   )
 }
 
-export default Home
+export default Produtos
