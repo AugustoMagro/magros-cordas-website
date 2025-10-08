@@ -1,11 +1,11 @@
 import Navbar from "../../components/Navbar"
-import ProdutosSector from "../../components/ProdutosSector"
+import PaginaProdutos from "../../components/PaginaProdutos"
 
 function Produtos() {
   return (
     <>
       <Navbar tab="Produtos"/>
-      <ProdutosSector />
+      <PaginaProdutos />
     </>
   )
 }

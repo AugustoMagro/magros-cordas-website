@@ -1,0 +1,23 @@
+[
+  {
+    "id":1,
+    "nome":"Breu",
+    "valor":"R$ 100",
+    "descricao":"Breu para violino de alta qualidade, proporciona melhor aderência do arco às cordas, garantindo som claro e suave.",
+    "img":"breu.jpeg"
+  },
+  {
+    "id":2,
+    "nome":"Violino",
+    "valor":"R$ 1800",
+    "descricao":"Violino 4/4",
+    "img":"breu.jpeg"
+  },
+  {
+    "id":3,
+    "nome":"Breu",
+    "valor":"R$ 100",
+    "descricao":"Breu para violino de alta qualidade, proporciona melhor aderência do arco às cordas, garantindo som claro e suave.",
+    "img":"breu.jpeg"
+  }
+]

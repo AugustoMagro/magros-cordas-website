@@ -11,7 +11,7 @@ const Navbar = (props: PageProps) => {
 
     return (
         <nav className="p-2 fixed w-full flex justify-between bg-white dark:bg-gray-magros-700 dark:text-white">
-            <h2>Magros Cordas</h2>
+            <h1 className="mt-1">Magros Cordas</h1>
             <Navegacao tab={props.tab}/>
             <BotaoContato />
             <ToggleTheme />
