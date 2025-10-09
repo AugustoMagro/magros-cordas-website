@@ -1,5 +1,5 @@
 import { MoonIcon, SunIcon } from "@heroicons/react/16/solid"
-import { useEffect, useState } from "react"
+import { useEffect } from "react"
 
 const ToggleTheme = () => {
 
