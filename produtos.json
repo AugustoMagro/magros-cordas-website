@@ -1,23 +1,290 @@
 [
   {
     "id":1,
-    "nome":"Breu",
-    "valor":"R$ 100",
-    "descricao":"Breu para violino de alta qualidade, proporciona melhor aderência do arco às cordas, garantindo som claro e suave.",
-    "img":"breu.jpeg"
+    "nome":"Violino Antoni Marsale HV320 4/4",
+    "valor":"R$ 1399.9",
+    "descricao":"Esse violino inclui estojo, arco e breu. O tampo é em abeto, fundo e laterais em Acero, espelho e acessórios em Ébano",
+    "img":"violino_marsale.jpg",
+    "vitrini":"Sim"
   },
   {
     "id":2,
-    "nome":"Violino",
+    "nome":"Breu Peccatte",
     "valor":"R$ 1800",
-    "descricao":"Violino 4/4",
-    "img":"breu.jpeg"
+    "descricao":"Esta resina Peccatte é uma resina made-in-France muito versátil que combina as qualidades lisas da resina clara com os tons cintilantes da resina escura, que permite ao músico tirar proveito do instrumento.",
+    "img":"breu.jpeg",
+    "vitrini":"Sim"
   },
   {
     "id":3,
-    "nome":"Breu",
+    "nome":"Arco Violino Tarttan Hardwood 4/4",
     "valor":"R$ 100",
-    "descricao":"Breu para violino de alta qualidade, proporciona melhor aderência do arco às cordas, garantindo som claro e suave.",
-    "img":"breu.jpeg"
+    "descricao":"O Tarttan Octogonal é um arco para violino de linha iniciante com visual e aparência profissional. Produzido com madeira Maciça - Hardwood, formato octogonal, talão Ébano com Olho París e crina natural branca de ótima qualidade.",
+    "img":"em_breve.png",
+    "vitrini":"Sim"
+  },
+  {
+    "id":4,
+    "nome":"Breu Erudithus",
+    "valor":"R$ 100",
+    "descricao":"O Tarttan Octogonal é um arco para violino de linha iniciante com visual e aparência profissional. Produzido com madeira Maciça - Hardwood, formato octogonal, talão Ébano com Olho París e crina natural branca de ótima qualidade.",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":5,
+    "nome":"Breu Pirastro Schwarz Black",
+    "valor":"R$ 100",
+    "descricao":"O material básico do breu Pirastro é a resina natural de pinho. Sua qualidade característica se dá pela utilização de componentes selecionados e diferenciados",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":6,
+    "nome":"Breu W. E. Hills Dark",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":7,
+    "nome":"Breu Pirastro Gold",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":8,
+    "nome":"Encordoamento Alphayue",
+    "valor":"R$ 100",
+    "descricao":"Encordoamento para violinos intermediários",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":9,
+    "nome":"Encordoamento Dominant 135B",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":10,
+    "nome":"Encordoamento Pirastro Tonica",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":11,
+    "nome":"Micro Afinador Tarttan Gold",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":12,
+    "nome":"Micro Afinador Tarttan Silver",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":13,
+    "nome":"Suporte Grampo Paganini para violino e arco PSV085",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":14,
+    "nome":"Suporte Arco estante Arcshow",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":15,
+    "nome":"Pedestal",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":16,
+    "nome":"Cavalette Teller Germany 3*",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":17,
+    "nome":"Cavalette Teller Germany 3* Ebano",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":18,
+    "nome":"Pasta Hill",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":19,
+    "nome":"Violino Michael 4/4",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":20,
+    "nome":"Bolsa p/ Hinário e Biblia GG",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":21,
+    "nome":"Bolsa p/ Hinário e Biblia G",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":22,
+    "nome":"Bolsa p/ Hinário e Biblia P (Reforçada)",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":23,
+    "nome":"Joelheira",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":24,
+    "nome":"Espaleira Lunnon",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":25,
+    "nome":"Encordoamento Guitarra .009",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":26,
+    "nome":"Encordoamento Guitarra .010",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":27,
+    "nome":"Cordas avulsas",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":28,
+    "nome":"Breu genérico",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":29,
+    "nome":"Encordoamento Cavaquinho São Gonçalo",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":30,
+    "nome":"Espaleira Kun",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":31,
+    "nome":"Case violino Gota",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":32,
+    "nome":"Prendedor de partitura - Flauta",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":33,
+    "nome":"Pino para violão",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":34,
+    "nome":"Cravelhas violão",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":35,
+    "nome":"Lenços",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
+  },
+  {
+    "id":36,
+    "nome":"Case Sax",
+    "valor":"R$ 100",
+    "descricao":"",
+    "img":"em_breve.png",
+    "vitrini":"Não"
   }
 ]

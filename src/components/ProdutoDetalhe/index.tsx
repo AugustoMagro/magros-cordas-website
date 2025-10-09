@@ -22,9 +22,9 @@ const ProdutoDetalhe = () => {
               <p className="mt-5">
                 {produto[0].descricao}
               </p>
-              <h2 className="mt-10 text-2xl">
+              {/* <h2 className="mt-10 text-2xl">
                 {produto[0].valor}
-              </h2>
+              </h2> */}
             </div>
           </div>
         </div>

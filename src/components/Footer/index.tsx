@@ -10,11 +10,11 @@ const Footer = () => {
                 </div>
                 <div className="mt-5">
                     <h2 className=" text-lg font-bold">Endereço</h2>
-                    <h5 className="">Rua Padre Anibal Difrancia, 113</h5>
+                    <h5 className="">Rua Padre Anibal Difrancia, 113, Jardim Mangalot, São Paulo - SP, CEP - 05135-160</h5>
                 </div>
                 <div className="mt-5">
                     <h2 className=" text-lg font-bold">WhatsApp</h2>
-                    <h5 className="">(11) 91111-1111</h5>
+                    <a className="border-b-1" href="https://api.whatsapp.com/send?phone=5511944583970">(11) 94458-3970</a>
                 </div>
             </div>
         </div>
