@@ -7,7 +7,7 @@ const Banner = () => {
     //     <h1 className="md:ms-5 lg:ms-96 text-gray-magros-100 font-bold text-7xl">e Acessórios</h1>
     //     <p className="md:ms-5 lg:ms-96 text-gray-magros-100 font-bold text-3xl">Uma loja para atender o que o músico<br></br>precisa com excelência</p>
     // </div>
-    <img className="w-full" src="/public/bannerV2.jpg" alt="" />
+    <img className="w-full" src="/dist/bannerV2.jpg" alt="" />
   )
 }
 

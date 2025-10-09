@@ -9,7 +9,7 @@ const ProdutoSector = ({produto}: PropsProduto) => {
 
 	return (
 		<div className="flex flex-col justify-between rounded-sm min-w-72 max-w-72 bg-gray-magros-100 dark:bg-gray-magros-600 shadow-sm dark:shadow-gray-magros-700 border-1 border-gray-magros-200 dark:border-gray-magros-500">
-			<img src={`/public/${produto.img}`} alt="Foto produto" className="h-76"/>
+			<img src={`/dist/${produto.img}`} alt="Foto produto" className="h-76"/>
 			<div className="flex flex-col justify-between gap-2">
 				<div className="p-3 flex flex-row justify-between">
 					<h6 className="text-2xl">{produto.nome}</h6>
