@@ -12,7 +12,7 @@ const ProdutoDetalhe = () => {
       <div className="mt-10 sm:mx-0 md:mx-0 lg:mx-48 gap-5 justify-center">
         <div className="flex justify-center">
           <div>
-            <img src={`/src/assets/${produto[0].img}`} alt="Breu para violino" className="w-200 object-fill rounded-s-md"/>
+            <img src={`/${produto[0].img}`} alt="Breu para violino" className="w-200 object-fill rounded-s-md"/>
           </div>
           <div className="bg-gray-magros-100 dark:text-gray-magros-100 dark:bg-gray-magros-600 flex flex-col min-w-130 max-w-130 rounded-e-md">
             <div className="p-10">
