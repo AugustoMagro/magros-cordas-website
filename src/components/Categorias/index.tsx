@@ -1,17 +1,21 @@
-import ProdutoSector from "./ProdutoSector"
-import data from "../../../produtos.json"
+import ProdutoSector from "../ProdutosSector/ProdutoSector"
+import data from "../../../produtomv.json"
 import { Link } from "react-router"
 
-const ProdutosSector = (props: PropsVitrini) => {
+interface PropsVitrini {
+  categoria: string
+}
+
+const Categorias = (props: PropsVitrini) => {
 
   const produtos = data
-  const vitrini = produtos.filter(item => "Sim" == item.vitrini)
+  const vitrini = produtos.filter(item => props.categoria == item.categoria)
 
 	return (
 		<>
 			<div className="p-10 bg-white dark:bg-gray-magros-700 text-gray-magros-700 dark:text-gray-magros-100">
-				<div className="sm:mx-0 md:mx-0 lg:mx-48 flex justify-between">
-					<h3>Produtos</h3>
+				<div className="mt-10 sm:mx-0 md:mx-0 lg:mx-48 flex justify-between">
+					<h3>{props.categoria}</h3>
 					<Link to="/produtos">Ver mais</Link>
 				</div>
 				<div className="sm:mx-0 md:mx-0 lg:mx-48 my-3 border-b-2" />
@@ -23,4 +27,4 @@ const ProdutosSector = (props: PropsVitrini) => {
 	)
 }
 
-export default ProdutosSector
+export default Categorias

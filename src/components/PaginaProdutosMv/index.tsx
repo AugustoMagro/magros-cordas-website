@@ -1,7 +1,8 @@
-import ProdutoSector from "../ProdutosSector/ProdutoSector"
-import data from "../../../produtos.json"
 
-const PaginaProdutos = () => {
+import ProdutoSector from "../ProdutosSector/ProdutoSector"
+import data from "../../../produtomv.json"
+
+const PaginaProdutosMv = () => {
 
 	const produtos = data
 
@@ -16,4 +17,4 @@ const PaginaProdutos = () => {
 	)
 }
 
-export default PaginaProdutos
+export default PaginaProdutosMv

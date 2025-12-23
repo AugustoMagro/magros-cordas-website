@@ -1,0 +1,21 @@
+
+[
+  {
+    "id":1,
+    "nome":"Violino Antoni Marsale HV320 4/4",
+    "valor":"R$ 1399.9",
+    "descricao":"Esse violino inclui estojo, arco e breu. O tampo é em abeto, fundo e laterais em Acero, espelho e acessórios em Ébano",
+    "img":"violino_marsale.jpg",
+    "vitrini":"Sim",
+    "categoria":"Vinhos"
+  },
+  {
+    "id":2,
+    "nome":"Breu Peccatte",
+    "valor":"R$ 1800",
+    "descricao":"Esta resina Peccatte é uma resina made-in-France muito versátil que combina as qualidades lisas da resina clara com os tons cintilantes da resina escura, que permite ao músico tirar proveito do instrumento.",
+    "img":"breu.jpeg",
+    "vitrini":"Sim",
+    "categoria":"Sucos"
+  }
+]
