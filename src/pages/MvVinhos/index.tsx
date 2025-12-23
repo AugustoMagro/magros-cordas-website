@@ -1,5 +1,4 @@
 import Navbar from "../../components/Navbar"
-import PaginaProdutosMv from "../../components/PaginaProdutosMv"
 import Categorias from "../../components/Categorias"
 
 function MvVinhos() {

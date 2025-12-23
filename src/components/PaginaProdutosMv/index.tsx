@@ -1,4 +1,3 @@
-
 import ProdutoSector from "../ProdutosSector/ProdutoSector"
 import data from "../../../produtomv.json"
 
