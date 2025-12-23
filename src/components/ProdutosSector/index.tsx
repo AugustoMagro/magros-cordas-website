@@ -2,7 +2,7 @@ import ProdutoSector from "./ProdutoSector"
 import data from "../../../produtos.json"
 import { Link } from "react-router"
 
-const ProdutosSector = (props: PropsVitrini) => {
+const ProdutosSector = () => {
 
   const produtos = data
   const vitrini = produtos.filter(item => "Sim" == item.vitrini)
